@@ -1,0 +1,35 @@
+{
+    "objective_value": 11.0,
+    "events": [
+        {
+            "operation": 0,
+            "time": 0,
+            "train": 0
+        },
+        {
+            "operation": 0,
+            "time": 0,
+            "train": 1
+        },
+        {
+            "operation": 2,
+            "time": 5,
+            "train": 0
+        },
+        {
+            "operation": 1,
+            "time": 6,
+            "train": 1
+        },
+        {
+            "operation": 3,
+            "time": 10,
+            "train": 0
+        },
+        {
+            "operation": 2,
+            "time": 11,
+            "train": 1
+        }
+    ]
+}
